@@ -2,6 +2,7 @@
 A todos done in HTML, CSS and JS
 ###
 * **Screenshots:**
+* ![app screenshot](./screenshot.png)
 * **Badges:**
 # 📝 Pro To-Do App
 
