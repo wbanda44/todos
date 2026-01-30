@@ -1,5 +1,8 @@
 # todos
 A todos done in HTML, CSS and JS
+###
+* **Screenshots:**
+* **Badges:**
 # 📝 Pro To-Do App
 
 A sleek, functional, and persistent To-Do application built with **Vanilla JavaScript**. This project was designed to demonstrate DOM manipulation, state management, and local storage integration.
